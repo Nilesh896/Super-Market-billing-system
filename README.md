@@ -2,6 +2,8 @@
 
 A Java-based Supermarket Billing System with a graphical user interface (GUI) built using Swing. The system allows customers to create accounts, view balances, purchase items with discounts, and update stock.
 
+![alt text](https://github.com/Nilesh896/Super-Market-billing-system/blob/5aa5847c62563379d8da38bfba9460f940b3998e/Screenshot%202024-12-31%20143941.png)
+![alt text](https://github.com/Nilesh896/Super-Market-billing-system/blob/5aa5847c62563379d8da38bfba9460f940b3998e/Screenshot%202024-12-31%20144127.png)
 ## Features
 
 - **Create Account:** Customers can create an account with an initial balance.
